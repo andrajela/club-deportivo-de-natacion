@@ -2,7 +2,26 @@
 
 Este  mockup esta diseñado para  el, club de natación de la piscina Municipal de Quilicura,
  en el cual queremos aportar con un sitio en el cual pueda ingresar vecinos de la comuna.
-
+ 
+ 
+ estructura de directorio
+ 
+ proyecto
+ ||
+ ||
+ ||-------Assets
+ ||             |--CSS ---style.css
+ ||            
+ ||------JS----script.js
+ ||
+ ||----img
+ ||
+ ||---Fonts-----fuentes
+ |
+ index.html
+ 
+ 
+ 
       Así tener a la mano la información ya como los horarios de atención las edades de las personas que quieran participar de dichas actividades en el nos queremos enfocar a adultos,niños y la tercera edad 
 ya que lo ideal es que puedan accede y participar a todos nuestros vecinos .
 
