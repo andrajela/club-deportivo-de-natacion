@@ -5,23 +5,19 @@ Este  mockup esta diseñado para  el, club de natación de la piscina Municipal 
  
  
  estructura de directorio
- 
- proyecto
- ||
- ||
- ||-------Assets
- ||             |--CSS ---style.css
- ||            
- ||------JS----script.js
- ||
- ||----img
- ||
- ||---Fonts-----fuentes
- |
+  
+proyecto
+ |   |
+	|   ----assets---css---style.css
+	|   |
+	|   ----js---script.js
+	|   |
+	|   -------img
+	|   |
+	|   -----fonts----fuentes
+	|
  index.html
- 
- 
- 
+	
       Así tener a la mano la información ya como los horarios de atención las edades de las personas que quieran participar de dichas actividades en el nos queremos enfocar a adultos,niños y la tercera edad 
 ya que lo ideal es que puedan accede y participar a todos nuestros vecinos .
 
