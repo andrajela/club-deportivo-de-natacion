@@ -32,8 +32,7 @@ Agregaremos imágenes de las diferentes actividades ,  agregaremos una sección 
 
 este proyecto va a ser diseñado con un layaut estático ya que en al abrir en otros dispositivos se adapten a el para las imágenes usaremos imágenes fluid todos los sitios a realizar van a llevar una barra de navegación y deben llevara un layaut estático  para las imágenes que vamos a colocar a dentro usamos img-resṕonsives
 
-![proyecto](clubdenatacion/proyecto.jpg)
-![sketch](clubdenatacion/sketch.jpg)
+
 
 font-family: 'PT Serif', serif; 
     1. font-family: 'Poppins', sans-serif; 
